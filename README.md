@@ -12,3 +12,7 @@ pour suivre les modifications de l'infrastructure au fil du temps.
 
 Terraform est un outil multi-cloud, ce qui signifie qu'il prend en charge plusieurs fournisseurs de cloud tels que AWS, Azure, Google Cloud, et d'autres.
 On peut utiliser les mêmes fichiers de configuration Terraform pour déployer des ressources sur différents fournisseurs de cloud, ce qui facilite la gestion de l'infrastructure multi-cloud.
+
+
+
+Je ne sais pas si mon tp est terminé. La commande ssh ne me renvoie rien lorsque je l'utilise.
